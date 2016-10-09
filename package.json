@@ -1,6 +1,6 @@
 {
   "name": "typus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Typus is not a UI framework for Stylus",
   "main": "index.styl",
   "repository": {
