@@ -1,0 +1,25 @@
+{
+  "name": "typus",
+  "version": "0.0.1",
+  "description": "Typus is not a UI framework for Stylus",
+  "main": "index.styl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayfranco/typus"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylus"
+  ],
+  "bugs": {
+    "url": "https://github.com/rayfranco/typus/issues"
+  },
+  "homepage": "https://github.com/rayfranco/typus",
+  "author": "Franco Bouly <fbouly@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}
